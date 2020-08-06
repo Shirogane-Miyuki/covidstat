@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1">
+  <title>COVID-19 Dashbaord</title>
+  <link rel="stylesheet" href="https://js.arcgis.com/4.14/esri/themes/light/main.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js"></script>
+  <script src="https://js.arcgis.com/4.14/"></script>
+  <script src="main.js"></script>
+</head>
+
+<body>
+  <div id="viewDiv"></div>
+  <div class="header">
+    <h1>COVID-19 Dashboard</h1>
+  </div>
+<div class="popup" onclick="myFunction()">Click me!
+  <span class="popuptext" id="myPopup">Popup text...</span>
+</div>
+  <section>
+    <div id="dashboardRegion"></div>
+
+    <canvas id="dashboardBarChart"></canvas>
+    <div class="dashboard-component"><div id="dashboardConfirmed" class="dashboard-number confirmed"></div><div class="extra">Confirmed</div></div>
+    <div class="dashboard-component"><div id="dashboardRecovered" class="dashboard-number recovered"></div><div class="extra">Recovered</div></div>
+    <div class="dashboard-component"><div id="dashboardDeaths" class="dashboard-number deaths"></div><div class="extra">Deaths</div></div>
+
+
+  </section>
+
+ 
+</body>
+
+</html>
