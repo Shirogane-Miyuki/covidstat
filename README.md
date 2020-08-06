@@ -10,6 +10,7 @@ Basically I personally had a question like: _"What about the Netherlands/Ukraine
 
 ### Main Functionality
 
+COVID-19 tracking along with 3d visualization of the cases
 
 ## Data source and tech-stack
 
