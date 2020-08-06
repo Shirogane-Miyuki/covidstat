@@ -1,6 +1,6 @@
 # Coronavirus (COVID-19) Dashboard
 
-📈 [**Coronavirus (COVID-19) Dashboard**](https://trekhleb.github.io/covid-19/) shows the dynamics (the curvature of the graph) of Сoronavirus distribution per country.
+📈 [**Coronavirus (COVID-19) Dashboard**](http://covidstat.ueuo.com/) shows the dynamics (the curvature of the graph) of Сoronavirus distribution per country.
 
 ## Reasoning
 
@@ -10,11 +10,6 @@ Basically I personally had a question like: _"What about the Netherlands/Ukraine
 
 ### Main Functionality
 
-The dashboard is still raw but it provides a basic functionality of displaying the global and per-country data charts.
-
-Here is how the main functionality looks like:
-
-![COVID-19 Dashboard Demo](./img/demo.gif)
 
 ## Data source and tech-stack
 
