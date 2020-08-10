@@ -1,3 +1,8 @@
+// by error434
+// copyrighted © 2020
+
+
+
 const covidSchema = {
   headerRow: 0,
   stateColumn: 0,
