@@ -1,3 +1,6 @@
+// by error434
+// copyrighted © 2020
+
 function useWindowSize() {
   const [width, setWidth] = React.useState(document.documentElement.clientWidth);
   const [height, setHeight] = React.useState(document.documentElement.clientHeight);
