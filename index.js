@@ -1,3 +1,6 @@
+// by error434
+// copyrighted © 2020
+
 // Globals.
 const r = React;
 const rd = ReactDOM;
