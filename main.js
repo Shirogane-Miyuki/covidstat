@@ -1,3 +1,6 @@
+// by error434
+// copyrighted © 2020
+
 require([
   "esri/Map",
   "esri/views/SceneView",
